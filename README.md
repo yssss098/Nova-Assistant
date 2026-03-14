@@ -165,7 +165,7 @@ MIT License — free to use, modify, and share. See [LICENSE](LICENSE) for detai
 
 <div align="center">
 
-Made with ❤️ by **Anjali Saraswat**
+Made with ❤️ by **Yash Pawar, vaibhav Bhawnani, Satakshi Chaturvedi,Tanu kumari**
 
 *If you like Nova, give it a ⭐ on GitHub!*
 
